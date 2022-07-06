@@ -23,8 +23,7 @@ This is a flutter app created with the purpose of creating tasks and having list
 
 ## Interface
 
-![First Image](https://drive.google.com/file/d/1oLWiSB0_PbZNjp-s_QAZgJ6hDuxvHM6V/view?usp=sharing)
-![Second Image](https://drive.google.com/file/d/1Tk-tv1m6mBbAnyKUgvudssuqbiBR99Cm/view?usp=sharing)
-![Third Image](https://drive.google.com/file/d/1v89nHyYnKrXEVSqkYIR_m5itjIDNYMPI/view?usp=sharing)
-![Fourt Image](https://drive.google.com/file/d/17Kj99EcdVCWlkU02X40qMCZrGQBP93pk/view?usp=sharing)
-
+![First](evidence/flutter_app_evidence_1.png)
+![Second](evidence/flutter_app_evidence_2.png)
+![Third](evidence/flutter_app_evidence_3.png)
+![Fourth](evidence/flutter_app_evidence_4.png)
